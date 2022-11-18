@@ -1,0 +1,16 @@
+body {
+  background-color: blanchedalmond;
+  }
+
+
+  .jumbotron {
+    background-image: url("../../images/img1.png");
+    background-size: 100% 130%;
+    color:rgb(27, 48, 41);
+    text-align: right;
+  }
+
+  .subtitletron {
+    color:darkslategray;
+    text-align: left;
+  }
