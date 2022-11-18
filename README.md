@@ -45,3 +45,5 @@ Figue 1 - Figure showing the webpage when opening the browser.
 
 ### Summary
 We've built an interactive dashboard to explore the Belly Button Biodiversity data which catalogs the microbes that colonize human navel, in a visually appealing and dynamic way. However, it would be interesting to make the web-page mobile responsive.  
+
+
